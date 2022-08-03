@@ -1,0 +1,44 @@
+C:\dev\test77>npm install next@latest
+npm WARN saveError ENOENT: no such file or directory, open 'C:\dev\test77\package.json'
+npm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: @next/swc-android-arm-eabi@12.2.3 (node_modules\next\node_modules\@next\swc-android-arm-eabi):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for @next/swc-android-arm-eabi@12.2.3: wanted {"os":"android","arch":"arm"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: @next/swc-android-arm64@12.2.3 (node_modules\next\node_modules\@next\swc-android-arm64):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for @next/swc-android-arm64@12.2.3: wanted {"os":"android","arch":"arm64"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: @next/swc-linux-arm-gnueabihf@12.2.3 (node_modules\next\node_modules\@next\swc-linux-arm-gnueabihf):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for @next/swc-linux-arm-gnueabihf@12.2.3: wanted {"os":"linux","arch":"arm"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: @next/swc-darwin-arm64@12.2.3 (node_modules\next\node_modules\@next\swc-darwin-arm64):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for @next/swc-darwin-arm64@12.2.3: wanted {"os":"darwin","arch":"arm64"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: @next/swc-darwin-x64@12.2.3 (node_modules\next\node_modules\@next\swc-darwin-x64):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for @next/swc-darwin-x64@12.2.3: wanted {"os":"darwin","arch":"x64"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: @next/swc-freebsd-x64@12.2.3 (node_modules\next\node_modules\@next\swc-freebsd-x64):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for @next/swc-freebsd-x64@12.2.3: wanted {"os":"freebsd","arch":"x64"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: @next/swc-linux-arm64-gnu@12.2.3 (node_modules\next\node_modules\@next\swc-linux-arm64-gnu):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for @next/swc-linux-arm64-gnu@12.2.3: wanted {"os":"linux","arch":"arm64"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: @next/swc-linux-arm64-musl@12.2.3 (node_modules\next\node_modules\@next\swc-linux-arm64-musl):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for @next/swc-linux-arm64-musl@12.2.3: wanted {"os":"linux","arch":"arm64"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: @next/swc-linux-x64-gnu@12.2.3 (node_modules\next\node_modules\@next\swc-linux-x64-gnu):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for @next/swc-linux-x64-gnu@12.2.3: wanted {"os":"linux","arch":"x64"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: @next/swc-linux-x64-musl@12.2.3 (node_modules\next\node_modules\@next\swc-linux-x64-musl):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for @next/swc-linux-x64-musl@12.2.3: wanted {"os":"linux","arch":"x64"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: @next/swc-win32-arm64-msvc@12.2.3 (node_modules\next\node_modules\@next\swc-win32-arm64-msvc):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for @next/swc-win32-arm64-msvc@12.2.3: wanted {"os":"win32","arch":"arm64"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: @next/swc-win32-ia32-msvc@12.2.3 (node_modules\next\node_modules\@next\swc-win32-ia32-msvc):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for @next/swc-win32-ia32-msvc@12.2.3: wanted {"os":"win32","arch":"ia32"} (current: {"os":"win32","arch":"x64"})
+npm WARN enoent ENOENT: no such file or directory, open 'C:\dev\test77\package.json'
+npm WARN next@12.2.3 requires a peer of react@^17.0.2 || ^18.0.0-0 but none is installed. You must install peer dependencies yourself.
+npm WARN next@12.2.3 requires a peer of react-dom@^17.0.2 || ^18.0.0-0 but none is installed. You must install peer dependencies yourself.
+npm WARN styled-jsx@5.0.2 requires a peer of react@>= 16.8.0 || 17.x.x || ^18.0.0-0 but none is installed. You must install peer dependencies yourself.
+npm WARN use-sync-external-store@1.2.0 requires a peer of react@^16.8.0 || ^17.0.0 || ^18.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN test77 No description
+npm WARN test77 No repository field.
+npm WARN test77 No README data
+npm WARN test77 No license field.
+
++ next@12.2.3
+added 12 packages from 43 contributors and audited 24 packages in 7.884s
+
+2 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
